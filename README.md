@@ -23,11 +23,17 @@ Reporting and Insights: Generate comprehensive reports on sales, inventory, and 
 # Technologies Used
 The retail business application is built using a modern and scalable technology stack, including:
 Programming Languages: JavaScript, HTML, CSS
+
 Frontend Framework: Angular
+
 Backend Framework: Java
+
 Database: MongoDB
+
 Authentication and Security: JWT (JSON Web Tokens), OAuth
+
 Payment Integration: Stripe, PayPal
+
 Deployment: Docker, AWS (Amazon Web Services)
 
 # Getting Started
