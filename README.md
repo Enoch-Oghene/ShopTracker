@@ -22,6 +22,7 @@ Reporting and Insights: Generate comprehensive reports on sales, inventory, and 
 
 # Technologies Used
 The retail business application is built using a modern and scalable technology stack, including:
+
 Programming Languages: JavaScript, HTML, CSS
 
 Frontend Framework: Angular
