@@ -37,8 +37,9 @@ Payment Integration: Stripe, PayPal
 Deployment: Docker, AWS (Amazon Web Services)
 
 # Getting Started
-To get started with the retail business application, follow the instructions provided in the Installation Guide. It will guide you through the setup process, including dependencies, database configuration, and running the application locally.
+To get started with the ShopTrackers application, follow the instructions provided in the Installation Guide. It will guide you through the setup process, including dependencies, database configuration, and running the application locally.
+
 For detailed usage instructions and API documentation, refer to the User Manual. It provides a comprehensive overview of the application's features, workflows, and configurations.
 
 # Contributions
-Contributions to this retail business application are welcome! If you have ideas for new features, encounter any issues, or would like to contribute enhancements or bug fixes, please submit a pull request.
+Contributions to the ShopTracker application are welcome! If you have ideas for new features, encounter any issues, or would like to contribute enhancements or bug fixes, please submit a pull request.
